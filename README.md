@@ -31,7 +31,7 @@ sudo apt install libsdl2-ttf-dev libsdl2-net-dev libsdl2-mixer-dev
 
 ```sh
 # Clone this repo
-git clone https://gitlab.com/aminosbh/flying-plane-sdl-animation.git
+git clone https://github.com/KhadijaYasmineMzabi/Science-Furry.git
 cd Science-Furry
 
 # Create a build folder
