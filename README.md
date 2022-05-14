@@ -1,14 +1,6 @@
-# Flying plane SDL2 animation
+# Science Furry
 
 This project is written in C and uses [CMake][] as a build system.<br>
-It shows how we can make a basic animation using [SDL2][SDL] : Flying plane.
-
-
-It could be used as a base for any SDL2 game. Just fork it, clone it and
-execute the `rename_project.sh` script. You will be prompted to enter the new
-project name, the new executable name and the new git repository, but you can
-keep the autodetected values. Finally, just commit and push the result to your
-repository.
 
 ## Dependencies
 
@@ -40,7 +32,7 @@ sudo apt install libsdl2-ttf-dev libsdl2-net-dev libsdl2-mixer-dev
 ```sh
 # Clone this repo
 git clone https://gitlab.com/aminosbh/flying-plane-sdl-animation.git
-cd flying-plane-sdl-animation
+cd Science-Furry
 
 # Create a build folder
 mkdir build
